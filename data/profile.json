@@ -58,6 +58,11 @@
   ],
   "portfolio": [
     {
+      "name": "Criação de página de portfólio",
+      "url": "https://github.com/WBNogueira/js-developer-portfolio.git",
+      "github": true
+    },
+    {
       "name": "Desenvolvendo jogo de xadrez com java",
       "url": "https://github.com/WBNogueira/xadrez-system-java.git",
       "github": true
