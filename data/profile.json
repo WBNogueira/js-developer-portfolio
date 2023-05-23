@@ -58,31 +58,71 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desenvolvendo jogo de xadrez com java",
+      "url": "https://github.com/WBNogueira/xadrez-system-java.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desenvolvendo jogo jo-ken-po com java",
+      "url": "https://github.com/WBNogueira/jo-ken-po.git",
+      "github": true
+    },
+    {
+      "name": "Projeto cloud parking com Spring FrameWork e Java",
+      "url": "https://github.com/WBNogueira/cloud-parking-final.git",
+      "github": true
+    },
+    {
+      "name": "Analise de Dados com Python e Pandas",
+      "url": "https://github.com/WBNogueira/Analise-de-dados-com-Python-e-Pandas.git",
+      "github": true
+    },
+    {
+      "name": "Demonstração da evolução do covid-19 com Python",
+      "url": "https://github.com/WBNogueira/evolucao_covid19_brasil.git",
+      "github": true
+    },
+    {
+      "name": "Processando imagens com Python (Jupiter)",
+      "url": "https://github.com/WBNogueira/como_processar_imagens.git",
+      "github": true
+    },
+    {
+      "name": "Simulação da Copa do Mundo de 2022 em Python (Jupiter)",
+      "url": "https://github.com/WBNogueira/Evitando-o-7x1-com-Python-e-SQL-DIO.git",
+      "github": true
+    },
+    {
+      "name": "Página web do mundo invertido do Homem Aranha",
+      "url": "https://github.com/WBNogueira/front-end_mundo_invertido.git",
+      "github": true
+    },
+    {
+      "name": "Relatório de Vendas e Lucro com Power BI",
+      "url": "https://github.com/WBNogueira/Relatorio_Vendas_e_Lucro_Power-BI.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Supervisor Financeiro / Cheque-pre.com Tecnologia da Informação Ltda",
+      "period": "2005 - 2022",
+      "description": "Só agradecimento pelo aprendizado no setor financeiro, onde utilizei meu conhecimento em Exccel para gerar diversos relatórios."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Chefe de Setor / Banco Tokyo-Mitsubishi do Brasil S/A",
+      "period": "1979 - 2003",
+      "description": "Entrei garoto, passando por vários setores, os pricipais: contabilidade bancária, mercado financeiro, empréstimos e etc. Onde passei a transição para a era da informática."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Escriturário / Unibanco - União de Bancos Brasileiros S/A",
+      "period": "1977 - 1978",
+      "description": "Bons momentos, onde aprendi a fechar relatórios para empréstimos rurais."
+    },
+    {
+      "name": "Escriturário / Banco Itaú S/A",
+      "period": "1977 - 1977",
+      "description": "Momentos de aprendizado no setor bancário."
     }
   ]
 }
